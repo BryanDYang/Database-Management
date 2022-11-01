@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX photograph_pid ON photo (photoid)

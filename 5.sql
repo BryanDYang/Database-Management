@@ -1,0 +1,1 @@
+ALTER TABLE photo ADD COLUMN userid INT NOT NULL AFTER locationid;
